@@ -39,6 +39,6 @@ go-demo-1/
 	•	Convert to CLI tool
 
 👤 Author
-Ahmadu Samaila
+Ahmed Samaila
 GitHub ahmadu2305
 
