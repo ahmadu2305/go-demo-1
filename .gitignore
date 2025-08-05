@@ -1,0 +1,14 @@
+# Ignore binaries
+*.exe
+*.out
+*.test
+
+# Output folders
+bin/
+build/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
