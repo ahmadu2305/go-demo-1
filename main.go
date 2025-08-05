@@ -1,11 +1,11 @@
+/*
+Copyright © 2025 NAME HERE <EMAIL ADDRESS>
+
+*/
 package main
 
-import (
-	"fmt"
-
-	"github.com/ahmadu2305/go-demo-1/mascot"
-)
+import "github.com/ahmadu2305/go-demo-1/cmd"
 
 func main() {
-	fmt.Println(mascot.BestMascot())
+	cmd.Execute()
 }
