@@ -1,5 +1,9 @@
 # go-demo-1
 
+![Go CI](https://github.com/ahmadu2305/go-demo-1/actions/workflows/go.yml/badge.svg)
+![License](https://img.shields.io/github/license/ahmadu2305/go-demo-1)
+![Go Version](https://img.shields.io/badge/go-1.20-blue)
+
 🚀 A simple Go demo project that prints the best mascot.
 
 ## 🛠️ Run Locally
